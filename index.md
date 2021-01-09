@@ -19,7 +19,8 @@ ALL TIMES CEST
 
 ## THURSDAY
 
-Nothing yet
+
+<a href="https://smash.gg/schweeklies">Schweeklies 7:30PM</a>
 
 ## FRIDAY
 
