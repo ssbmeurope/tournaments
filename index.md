@@ -2,6 +2,8 @@
 
 ALL TIMES CEST
 
+All tourneys are not region locked unless specified
+
 <a href="https://discord.gg/4u79XrANgh"> SSBM EU DISCORD</a>
 
 <br><a href="https://twitter.com/SmashEurope"> SSBM EU TWITTER</a>
