@@ -8,7 +8,7 @@ ALL TIMES CEST
 
 <a href="https://discord.com/invite/8WA2ADY">France Weekly 5:30PM</a>
 <br><a href="https://discord.gg/CfzgTUZ">Nordic Weekly 7PM</a>
-<br><a href="https://discord.com/invite/MHWfdKC">UK Weekly 9PM</a>
+<br><a href="https://discord.com/invite/MHWfdKC">Long Live Netplay 9PM</a>
 
 ## TUESDAY
 
