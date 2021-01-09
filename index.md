@@ -1,6 +1,6 @@
 # SSBM Europe Weekly Tournaments
 
-### <a href="https://ssbmeuto.vercel.app/"> USE THIS ONE INSTEAD</a>
+### <a href="https://smashmelee.eu">WEBSITE REPLACED BY SMASHMELEE.EU USE THIS LINK INSTEAD</a>
 
 ALL TIMES CEST
 
