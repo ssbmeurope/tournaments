@@ -1,6 +1,6 @@
 # SSBM Europe Weekly Tournaments
 
-### This is a proof of concept for Leffen cause he's actually right, will link to FluentCoding's website when it goes live
+### <a href="https://ssbmeuto.vercel.app/"> USE THIS ONE INSTEAD</a>
 
 ALL TIMES CEST
 
