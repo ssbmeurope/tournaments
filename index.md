@@ -1,6 +1,6 @@
 # SSBM Europe Weekly Tournaments
 
-### This is a proof of concept for Leffen cause he's whining (but correct), will link to FluentCoding's website when it goes live
+### This is a proof of concept for Leffen cause he's whining (but he right), will link to FluentCoding's website when it goes live
 
 ALL TIMES CEST
 
