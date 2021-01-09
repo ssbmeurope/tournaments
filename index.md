@@ -4,6 +4,9 @@ ALL TIMES CEST
 
 <a href="https://discord.gg/4u79XrANgh"> SSBM EU DISCORD</a>
 
+<br><a href="https://twitter.com/SmashEurope"> SSBM EU TWITTER</a>
+
+
 ## MONDAY
 
 <a href="https://discord.com/invite/8WA2ADY">France Weekly 5:30PM</a>
