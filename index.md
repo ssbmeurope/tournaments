@@ -2,8 +2,21 @@
 
 Temp text for leffen
 
-### Keanu Wednesday Weekly
-https://discord.gg/hhVg58kfrK
+## MONDAY
+
+##TUESDAY
+
+##WEDNESDAY
+
+<a href="https://discord.gg/hhVg58kfrK">Keanu Wednesday Weekly</a>
+
+##THURSDAY
+
+##FRIDAY
+
+##SATURDAY
+
+##SUNDAY
 
 ### Contact
 
