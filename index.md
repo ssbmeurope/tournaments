@@ -15,7 +15,7 @@ ALL TIMES CEST
 
 ## WEDNESDAY
 
-<a href="https://discord.gg/hhVg58kfrK">Keanu Wednesday Weekly 8:30PM</a>
+<a href="https://discord.gg/hhVg58kfrK">Keanu's Wednesday Weekly 8:30PM</a>
 
 ## THURSDAY
 
