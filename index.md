@@ -37,4 +37,4 @@ Nothing yet
 
 ### Contact
 
-DM Pierce on Twitter https://www.twitter.com/vlookupman with your tournaments
+DM Pierce on Twitter https://www.twitter.com/vlookupman with your tournaments (check the pinned tweet)
