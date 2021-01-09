@@ -1,4 +1,4 @@
-# SSBM Europe Tournaments
+# SSBM Europe Weekly Tournaments
 
 ALL TIMES CEST
 
@@ -33,7 +33,7 @@ ALL TIMES CEST
 
 ## SATURDAY
 
-<a href="https://discord.gg/htRzpC7">Portudal Weekly 6:30PM</a>
+<a href="https://discord.gg/htRzpC7">Portugal Weekly 6:30PM</a>
 <br><a href="https://discord.gg/8QfP7gt4sj">Shaguar Saturdays 7PM</a>
 
 ## SUNDAY
