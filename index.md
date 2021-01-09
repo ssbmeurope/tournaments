@@ -40,4 +40,4 @@ ALL TIMES CEST
 
 ### Contact
 
-DM Pierce on Twitter https://www.twitter.com/vlookupman with your tournaments (check the pinned tweet)
+DM Pierce on <a href="https://www.twitter.com/vlookupman">Twitter</a> with your tournaments (check the pinned tweet)
