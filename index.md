@@ -13,7 +13,7 @@ All tourneys are not region locked unless specified
 
 ## MONDAY
 
-<a href="https://discord.com/invite/8WA2ADY">France Weekly 5:30PM</a>
+<a href="https://discord.com/invite/8WA2ADY">Rockball Weekly 5:30PM</a>
 <br><a href="https://discord.gg/CfzgTUZ">Nordic Weekly 7PM</a>
 <br><a href="https://discord.com/invite/MHWfdKC">Long Live Netplay 9PM</a>
 
@@ -47,4 +47,4 @@ All tourneys are not region locked unless specified
 
 ### Contact
 
-DM Pierce on <a href="https://www.twitter.com/vlookupman">Twitter</a> with your tournaments (check the pinned tweet)
+Add the tournaments to the SSBM EU discord or the TOI discord to get them added here
